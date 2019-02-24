@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\Debug\Project1B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Project1B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Project1B.map</FILE>
+  <FILE>Project1B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\main.asm</FILE><LINE>8</LINE></RESET>
+  <START><FILE>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\main.asm</FILE><LINE>34</LINE></START>
+  <DIVBYTHREE><FILE>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\main.asm</FILE><LINE>43</LINE></DIVBYTHREE>
+  <DIVBAD><FILE>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\main.asm</FILE><LINE>60</LINE></DIVBAD>
+  <DIVGOOD><FILE>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\main.asm</FILE><LINE>52</LINE></DIVGOOD>
+  <DONE><FILE>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\main.asm</FILE><LINE>68</LINE></DONE>
+  <FIN><FILE>C:\Users\Cody Hudson\Documents\Atmel Studio\7.0\Project_1B\Project1B\main.asm</FILE><LINE>73</LINE></FIN>
+ </LABELS>
+</ASSEMBLER_INFO>
